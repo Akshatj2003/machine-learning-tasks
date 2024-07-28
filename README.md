@@ -1,4 +1,5 @@
-Task 1: Predicting Aggregate Ratings
+Task 1: 
+Predicting Aggregate Ratings
 Objective: Predict restaurant aggregate ratings based on features like Cuisines and Locality using regression models.
 Steps:
 Data Loading and Preprocessing: Load the dataset (Dataset.csv), clean it by removing missing values.
